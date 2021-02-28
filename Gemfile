@@ -103,3 +103,5 @@ group :test do
   # Minitest reporter plugin for CircleCI.
   gem "minitest-ci"
 end
+
+gem "mjml-rails"
